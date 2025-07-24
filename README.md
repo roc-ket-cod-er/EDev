@@ -9,3 +9,9 @@ I made EDev because I was sort of tired of seeing devboards with all the great f
 <img width="1218" height="619" alt="image" src="https://github.com/user-attachments/assets/db708241-171e-4496-b522-03f808853a5f" />
 
 <img width="1177" height="746" alt="image" src="https://github.com/user-attachments/assets/3a9ff150-1ff4-4105-9cb3-b2d7e5653836" />
+
+## BOM
+
+Item|Cost
+--|--
+PCB|US$42.39
