@@ -91,4 +91,14 @@ There are also 18 accessible GPIO, 3x 3.3V lines and one battery input line. As 
 
 Well, yeah! That's how you speedrun and ESP32 based board. I am just going to add 2 LEDs --> one on the USB line, and one on the 3.3V line.
 
-HOURS: 4.
+--
+
+There we go!
+
+LEDS added!
+
+<img width="1288" height="742" alt="image" src="https://github.com/user-attachments/assets/2b8ef703-b831-4f65-a135-c6e17cc2dafa" />
+
+I think it might just be me, but this board is looking *sick*!
+
+### HOURS: 4.5
