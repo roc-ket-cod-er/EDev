@@ -5,6 +5,8 @@ description: "An ESP32 devboard, with built-in battery holders."
 created_at: "2025-07-24"
 ---
 
+Hours: 4.5
+
 ## Day 1: Core Board (7/24)
 
 First things first, time to do some planning.
