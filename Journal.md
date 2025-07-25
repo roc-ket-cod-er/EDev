@@ -19,7 +19,7 @@ So I got to designing. I chose to power it off of 2x CR2032s, as they are quite 
 
 So then to the designing!
 
---
+---
 
 First thing is first, which ESP32 module should I use? I have many different options, however I am limited by what JLCPCB can assemble without using standard assembly. As this thing must be a cheap board, preferably under $50 for the 2 set, it must not use advanced assembly. So, here I go!
 
@@ -35,7 +35,7 @@ or the ESP32-S3-MINI-1-N4R2 for $3.xx
 
 Time to go Datasheet-Diving!
 
---
+---
 
 A bit of Datasheet-Diving later, I have found some key differences. Let me explane them to you.
 
@@ -49,7 +49,7 @@ Not only is the S3 smaller and cheaper, but it has much more ram. The number aft
 
 As I mentioned, it is quite smaller, and it is also having significantly more GPIO. As far as I can tell, it is the optimal choice for sure.
 
---
+---
 
 ### A bit of designing later
 
@@ -89,11 +89,11 @@ There are a total of 52 pins, out of which 26 are ground pins. It makes running 
 
 There are also 18 accessible GPIO, 3x 3.3V lines and one battery input line. As long as the CR2032s are not in, you can connect upto 20V of power to the esp32f from, for example, a lipo (for high-power applications).
 
---
+---
 
 Well, yeah! That's how you speedrun and ESP32 based board. I am just going to add 2 LEDs --> one on the USB line, and one on the 3.3V line.
 
---
+---
 
 There we go!
 
