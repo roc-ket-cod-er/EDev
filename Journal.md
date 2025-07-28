@@ -97,10 +97,16 @@ Well, yeah! That's how you speedrun and ESP32 based board. I am just going to ad
 
 There we go!
 
-LEDS added!
+LEDs added!
 
 <img width="1288" height="742" alt="image" src="https://github.com/user-attachments/assets/2b8ef703-b831-4f65-a135-c6e17cc2dafa" />
 
 I think it might just be me, but this board is looking *sick*!
 
 ### HOURS: 4.5
+
+Day 2: Copper Keep Out (7.28)
+
+Today, I just spent like 2 minutes adding a copper keepout zone underneath the antenna.
+
+### HOURS: 0 / 4.5
